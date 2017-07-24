@@ -44,3 +44,5 @@ export function next(state) {
     });
   }
 }
+
+export const INITIAL_STATE = Map();
